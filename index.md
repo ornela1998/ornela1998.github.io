@@ -1,0 +1,22 @@
+# Welcome to Jean-Paul Ainam's Homepage
+
+## Biography
+
+Hi! I am currently a **second-year Ph.D. student** in Department of Computer Science and Engineering at the University of Electronic Science and Technology of China, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Dr Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target=="_blank">Cosendai Adventist University</a> in 2012.
+
+My current research topics include object detection in images and videos, person re-identification and Generative Adversarial Networks (GANs).
+Details can be found in my [CV](https://jpainam.github.io/cv.pdf).
+
+## Selected Publications
+
+* <a href="https://jpaiam.github.io/papers/SLSR_2018.pdf">Sparse Label Smoothing for Semi-Supervised Person re-identification</a><br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo<br> ArXiv: 1809.04976, [[paper](https://arxiv.org/abs/1809.04976)] [[code](https://github.com/jpainam/SLS_ReID)]
+
+* <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Person Re-identification through Clustering and Partial Label Smoothing Regularization</a><br> **Jean-Paul Ainam**, Ke Qin and Guangchun Luo<br> In Proceedings of ACM International Conference on Big Data and Smart Computing, ICBDSC ’19, January 2019, Bali, Indonesia<br>[[paper](https://jpainam.github.io/papers/PLSR_2018.pdf)]
+
+* <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing (**ICIP**). Beijing, China, 2017. (Full paper, accepted rate 45.3%)<br>[[paper](https://guangxinghan.github.io/papers/ICIP_2017.pdf)][[code](https://github.com/GuangxingHan/SSD-TDR)]
+
+## Selected Awards
+
+* ACM MM 2018 Student Travel Grants.
+* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
+* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
