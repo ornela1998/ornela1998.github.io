@@ -11,9 +11,9 @@ You are welcomed.
 
 ## Selected Publications
 
-* <a href="https://jpaiam.github.io/papers/SLSR_2018.pdf">Sparse Label Smoothing for Semi-Supervised Person re-identification</a><br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo<br> ArXiv: 1809.04976, [[paper](https://arxiv.org/abs/1809.04976)] [[code](https://github.com/jpainam/SLS_ReID)]
+* <a href="https://jpainam.github.io/papers/SLSR_2018.pdf">Sparse Label Smoothing for Semi-Supervised Person re-identification</a><br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo<br> ArXiv: 1809.04976, [[paper](https://arxiv.org/abs/1809.04976)] [[code](https://github.com/jpainam/SLS_ReID)]
 
-* <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Person Re-identification through Clustering and Partial Label Smoothing Regularization</a><br> **Jean-Paul Ainam**, Ke Qin and Guangchun Luo<br> In Proceedings of ACM International Conference on Big Data and Smart Computing, ICBDSC ’19, January 2019, Bali, Indonesia[[paper](https://jpainam.github.io/papers/PLSR_2018.pdf)]
+* <a href="https://jpainam.github.io/papers/PLSR_2018.pdf">Person Re-identification through Clustering and Partial Label Smoothing Regularization</a><br> **Jean-Paul Ainam**, Ke Qin and Guangchun Luo<br> In Proceedings of ACM International Conference on Big Data and Smart Computing, ICBDSC ’19, January 2019, Bali, Indonesia<br/>[[paper](https://jpainam.github.io/papers/PLSR_2018.pdf)]
 
 * <a href="#">Self Attention Grid for Person re-identification</a><br> **Jean-Paul Ainam**,Ke Qin, Guisong Liu<br>[[paper](https://jpainam.github.io/papers/SAG_2018.pdf)][[code](https://github.com/jpainam/self_attention_grid)]
 
