@@ -13,10 +13,10 @@ Details can be found in my [CV](https://jpainam.github.io/cv.pdf).
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-319-70090-8_2">Person Re-identification through Clustering and Partial Label Smoothing Regularization</a><br> **Jean-Paul Ainam**, Ke Qin and Guangchun Luo<br> In Proceedings of ACM International Conference on Big Data and Smart Computing, ICBDSC ’19, January 2019, Bali, Indonesia<br>[[paper](https://jpainam.github.io/papers/PLSR_2018.pdf)]
 
-* <a href="https://ieeexplore.ieee.org/document/8296905/">Single Shot Object Detection with Top-Down Refinement</a><br> **Guangxing Han**, Xuan Zhang, Chongrong Li<br> IEEE International Conference on Image Processing (**ICIP**). Beijing, China, 2017. (Full paper, accepted rate 45.3%)<br>[[paper](https://guangxinghan.github.io/papers/ICIP_2017.pdf)][[code](https://github.com/GuangxingHan/SSD-TDR)]
+* <a href="#">Self Attention Grid for Person re-identification</a><br> **Jean-Paul Ainam**,Ke Qin, Guisong Liu<br> Arxiv: <br>[[paper](https://jpainam.github.io/papers/SAG_2018.pdf)][[code](https://github.com/GuangxingHan/SSD-TDR)]
 
-## Selected Awards
-
-* ACM MM 2018 Student Travel Grants.
-* The 38th ACM-ICPC Asia Invitational Programming Contest, Nanjing Site, 2013, **Gold Medal**.
-* The 38th ACM-ICPC Asia Regional Programming Contest, Changsha Site, 2013, **Bronze Medal** (rank first in the bronze medals).
+## Teaching
+* Object Oriented Programming
+* Web site programming and Applications
+* C Programming
+* Advanced Data Structure
