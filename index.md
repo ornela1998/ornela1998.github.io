@@ -5,7 +5,9 @@
 Hi! I am currently a **second-year Ph.D. student** in Department of Computer Science and Engineering at the University of Electronic Science and Technology of China, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Dr Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target=="_blank">Cosendai Adventist University</a> in 2012.
 
 My current research topics include object detection in images and videos, person re-identification and Generative Adversarial Networks (GANs).
-Details can be found in my [CV](https://jpainam.github.io/cv.pdf).
+Details can be found in my [CV](https://jpainam.github.io/cv.pdf). Feel free to contact me at jpainam at gmail dot com or visit me at our Lab: Main Building, Room A2 301, University of Electronic Science and Technology of China.
+
+You are welcomed.
 
 ## Selected Publications
 

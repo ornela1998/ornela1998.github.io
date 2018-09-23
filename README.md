@@ -1,2 +1,2 @@
-# guangxinghan.github.io
-Guangxing Han's personal website
+# jpainam.github.io
+Jean-Paul Ainam's personal website
