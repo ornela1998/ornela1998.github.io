@@ -13,9 +13,9 @@ Details can be found in my <a target="_blank" href="https://1drv.ms/b/s!Avwfb9nL
 * <a href="#">Person Re-identification through Clustering and Partial Label Smoothing Regularization</a><br> **Jean-Paul Ainam**, Ke Qin and Guangchun Luo<br>ACM International Conference on Big Data and Smart Computing, ICBDSC ’19, January 2019, Bali, Indonesia <b>[Accepted]</b>
 
 ## Arxiv Preprint
-* <a href="http://arxiv.org/abs/1809.08556">Self Attention Grid for Person re-identification</a><br> **Jean-Paul Ainam**,Ke Qin, Guisong Liu [[code](https://github.com/jpainam/self_attention_grid)]
+* <a href="https://arxiv.org/abs/1809.08556" target="_blank">Self Attention Grid for Person re-identification</a><br> **Jean-Paul Ainam**,Ke Qin, Guisong Liu [[code](https://github.com/jpainam/self_attention_grid)]
 
-* <a href="https://arxiv.org/abs/1809.04976">Sparse Label Smoothing for Semi-Supervised Person re-identification</a>
+* <a href="https://arxiv.org/abs/1809.04976" target="_blank">Sparse Label Smoothing for Semi-Supervised Person re-identification</a>
 <br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo [[code](https://github.com/jpainam/SLS_ReID)]
 
 ## Teaching (2014-2017)
