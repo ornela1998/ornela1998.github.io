@@ -2,10 +2,10 @@
 
 ## Biography
 
-Hi! I am currently a **second-year Ph.D. student**, Department of Computer Science at the University of Electronic Science and Technology of China, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Dr Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target="_blank">Cosendai Adventist University</a> in 2012.
+Hi! I am currently a **second-year Ph.D. student**, Department of Computer Science at the University of Electronic Science and Technology of China, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Prof. Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target="_blank">Cosendai Adventist University</a> in 2012.
 
 My current research topics include object detection in images and videos, person re-identification and Generative Adversarial Networks (GANs).
-Details can be found in my <a target="_blank" href="https://1drv.ms/b/s!Avwfb9nLRWEykmJ0tpu7NWUCU9u_">CV</a>. Feel free to contact me at jpainam at gmail dot com or visit me at our Lab: Main Building, Room A2 301, University of Electronic Science and Technology of China.
+Details can be found in my <a target="_blank" href="https://1drv.ms/b/s!Avwfb9nLRWEykmJ0tpu7NWUCU9u_">CV</a>. Feel free to contact me at jpainam at gmail dot com or visit me at my Lab: Main Building, Room A2 301, University of Electronic Science and Technology of China.
 
 ## Selected Publications
 * <a href="#">Deep Residual Network with Self Attention Improves Person Re-Identification Accuracy</a><br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo<br>ACM International Conference on Machine Learning and Computing, ICMLC’19, Feb 2019, Zhuhai, China <b>[Accepted]</b>
