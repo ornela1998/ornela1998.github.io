@@ -29,6 +29,3 @@ Details can be found in my <a target="_blank" href="https://1drv.ms/b/s!Avwfb9nL
 
 ## Certifications
 * Cisco Certified Network, CCNA & CCNP. Certification Verification No. 414694170760EOWK 2012
-serhrhreh
-iu
-r5tu6r5uiuipuiop
