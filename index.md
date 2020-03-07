@@ -8,12 +8,16 @@ My current research topics include object detection in images and videos, person
 Details can be found in my <a target="_blank" href="https://1drv.ms/b/s!Avwfb9nLRWEykmJ0tpu7NWUCU9u_">CV</a>. Feel free to contact me at jpainam at gmail dot com or visit me at my Lab: Main Building, Room A2 301, University of Electronic Science and Technology of China.
 
 ## Selected Publications
-* **Jean-Paul Ainam**, K. Qin, Guisong Liu, Guangchun Luo. Sparse Label Smoothing Regularization for Person Re-Identification, IEEE Access, vol. 7, pp. 27899-27910, 2019. <a target="_blank" href="https://doi.org/10.1109/ACCESS.2019.2901599">doi: 10.1109/ACCESS.2019.2901599</a>. 
+* **Jean-Paul Ainam**, Ke Qin, Guisong Liu, Guangchun Luo, and Brighter Agyemang. Enforcing Affinity Feature Learning through Self-attention for Person Re-identification. ACM Trans. Multimedia Comput. Commun. Appl. 16, 1, Article 16 (March 2020), 22 pages. DOI:<a href="https://dl.acm.org/doi/10.1145/3377352"  target="_blank">https://doi.org/10.1145/3377352</a>. 
+
+* **Jean-Paul Ainam**, Ke Qin, Guisong Liu, Guangchun Luo. View-Invariant and Similarity Learning for Robust Person Re-Identification, IEEE Access, vol. 7, pp. 185486-185495, 2019. <a target="_blank" href="https://doi.org/10.1109/ACCESS.2019.2901599">doi: 10.1109/ACCESS.2019.2901599</a>. 
+
+* **Jean-Paul Ainam**, Ke Qin, Guisong Liu, Guangchun Luo. Sparse Label Smoothing Regularization for Person Re-Identification, IEEE Access, vol. 7, pp. 27899-27910, 2019. <a target="_blank" href="https://doi.org/10.1109/ACCESS.2019.2960030">doi: 10.1109/ACCESS.2019.2960030</a>. 
 
 
-* **Jean-Paul Ainam**, K. Qin, Guisong Liu, Guangchun Luo. Person Re-identification through Clustering and Partial Label Smoothing Regularization. 2nd International Conference on Software Engineering and Information Management (ICSIM 2019), January 10–13, 2019, Bali, Indonesia. ACM, New York, NY, USA, Article 4, 6 pages. <a target="_blank" href="https://dl.acm.org/citation.cfm?id=3305205">doi: 10.1145/3305160.3305205</a>. 2019
+* **Jean-Paul Ainam**, Ke Qin, Guisong Liu, Guangchun Luo. Person Re-identification through Clustering and Partial Label Smoothing Regularization. 2nd International Conference on Software Engineering and Information Management (ICSIM 2019), January 10–13, 2019, Bali, Indonesia. ACM, New York, NY, USA, Article 4, 6 pages. <a target="_blank" href="https://dl.acm.org/citation.cfm?id=3305205">doi: 10.1145/3305160.3305205</a>. 2019
 
-* **Jean-Paul Ainam**, K. Qin*, Guisong Liu, Guangchun Luo. Deep Residual Network with Self Attention Improves Person Re-Identification Accuracy. 11th International Conference on Machine Learning and Computing (ICMLC19), February 22–24, 2019, Zhuhai, China. ACM, New York, NY, USA, 6 pages. <a href="https://doi.org/10.1145/3318299.3318324">doi: 10.1145/3318299.3318324</a>. 2019
+* **Jean-Paul Ainam**, Ke Qin*, Guisong Liu, Guangchun Luo. Deep Residual Network with Self Attention Improves Person Re-Identification Accuracy. 11th International Conference on Machine Learning and Computing (ICMLC19), February 22–24, 2019, Zhuhai, China. ACM, New York, NY, USA, 6 pages. <a href="https://doi.org/10.1145/3318299.3318324">doi: 10.1145/3318299.3318324</a>. 2019
 
 ## Arxiv Preprint
 * <a href="https://arxiv.org/abs/1809.08556" target="_blank">Self Attention Grid for Person re-identification</a><br> **Jean-Paul Ainam**,Ke Qin, Guisong Liu [[code](https://github.com/jpainam/self_attention_grid)]
