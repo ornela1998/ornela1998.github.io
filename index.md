@@ -2,7 +2,7 @@
 
 ## Biography
 
-Hi! I completed my **Ph.D.** in October 2020, at the School of Computer Science and Engineering, University of Electronic Science and Technology of China, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Prof. Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target="_blank">Cosendai Adventist University</a> in 2012.
+Hi! I completed my **Ph.D.** in December 2020, at the School of Computer Science and Engineering, <a href="https://en.uestc.edu.cn" target="_blank">University of Electronic Science and Technology of China</a>, under the supervision of Prof. <a href="https://scholar.google.com/citations?user=YevGUDgAAAAJ&hl=en" target="_blank">Qin Ke</a>. I received my Master’s degree from Babcock University in 2014, under the supervision of Prof. Okolie S.O and my bachelor’s degree in <a href="https//:www.uacosendai-edu.net" target="_blank">Cosendai Adventist University</a> in 2012.
 
 My current research topics include image classification, person re-identification and Generative Adversarial Networks (GANs).
 Details can be found in my <a target="_blank" href="https://1drv.ms/w/s!Avwfb9nLRWEytyulmssmykW9cfrY?e=JTYZgg">CV</a>. Feel free to contact me at jpainam at gmail dot com for a job or postdoc position.
