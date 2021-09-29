@@ -12,4 +12,4 @@ gems:
   - jekyll-feed
 plugins:
   - jekyll-seo-tag
-google_analytics: UA-53178927-1
+google_analytics: false
