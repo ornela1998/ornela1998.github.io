@@ -27,11 +27,18 @@ Details can be found in my <a target="_blank" href="https://1drv.ms/w/s!Avwfb9nL
 * <a href="https://arxiv.org/abs/1809.04976" target="_blank">Sparse Label Smoothing for Person re-identification</a>
 <br> **Jean-Paul Ainam**, Ke Qin, Guisong Liu and Guangchun Luo [[code](https://github.com/jpainam/SLS_ReID)]
 
-## Teaching (2014-2017)
-* Object Oriented Programming
-* Web site programming and Applications
-* C Programming
-* Advanced Data Structure
+## CURSUS ACADEMIQUE
+* 2019-2020 : LICENCE (Institut La Rosière) 
+* 2016-2017: Baccalauréat (Lycée Bilingue de Mendong) 
+* 2014-2015 : Probatoire (Lycée Bilingue de Mendong) 
+* 2012-2013 : BEPC ( au collège MCD) 2008-2009 : CEP (GSB La Félicité) 
 
-## Certifications
-* Cisco Certified Network, CCNA & CCNP. Certification Verification No. 414694170760EOWK 2013
+## Qualités
+* Travailleuse (capable de travailler sous-pression)
+* Dynamique, humble et endurante
+* Esprit d’équipe
+* Entreprenante
+* Disciplinée
+
+## Formation
+* Février à Mai 2021 : Formation sur le PEV au CS Marc Vivien Foe Du 13/9/20 au 13/02/21 :Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
