@@ -10,7 +10,8 @@ Je me nomme Fomekang Foukein Ornela, née le 25 Février 1998 à Batchom de nati
 * **Date et lieu de naissance** : 22Février 1998 à Batcham 
 * **Situation matrimoniale** : Célibataire 
 * **Nationalité** : Camerounaise 
-* **Téléphone** : 675 30 30 63 Région : Ouest (Bamboutos)
+* **Téléphone** : 675 30 30 63 
+* Région : Ouest (Bamboutos)
 
 ## CURSUS ACADEMIQUE
 * **2019-2020** : LICENCE (Institut Supérieur La Rosière) 
@@ -26,4 +27,5 @@ Je me nomme Fomekang Foukein Ornela, née le 25 Février 1998 à Batchom de nati
 * Disciplinée
 
 ## Formation
-* **Février à Mai 2021** : Formation sur le PEV au CS Marc Vivien Foe Du 13/9/20 au 13/02/21 :Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
+* **Février à Mai 2021** : Formation sur le PEV au CS Marc Vivien Foe 
+*  **Du 13/9/20 au 13/02/21 ** :Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
