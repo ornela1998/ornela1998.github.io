@@ -30,5 +30,5 @@ Je me nomme Fomekang Foukein Ornela, née le 25 Février 1998 à Batchom de nati
 * **Février à Mai 2021** : Formation sur le PEV au CS Marc Vivien Foe 
 *  **Du 13/9/20 au 13/02/21** : Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
 
-## Expérience Professionn
+## Expérienc Profesionnelle
 *  **2021**: Employée au Centre de Santé Sainte Elisabeth.
