@@ -17,7 +17,7 @@ Details can be found in my <a target="_blank" href="https://1drv.ms/w/s!Avwfb9nL
 * **Téléphone** : 675 30 30 63 Région : Ouest (Bamboutos)
 
 ## CURSUS ACADEMIQUE
-* **2019-2020** : LICENCE (Institut La Rosière) 
+* **2019-2020** : LICENCE (Institut Supérieur La Rosière) 
 * **2016-2017** : Baccalauréat (Lycée Bilingue de Mendong) 
 * **2014-2015** : Probatoire (Lycée Bilingue de Mendong) 
 * **2012-2013** : BEPC ( au collège MCD) 2008-2009 : CEP (GSB La Félicité) 
