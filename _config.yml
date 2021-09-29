@@ -1,6 +1,6 @@
 show_downloads: false
 git_branch: master
-logo_url: 'img/me.jpg'
+logo_url: 'img/me.jpeg'
 custom_head: false
 custom_sidebar: false
 custom_footer: false
