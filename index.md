@@ -11,7 +11,7 @@ Je me nomme Fomekang Foukein Ornela, née le 25 Février a Batcham de nationnali
 * **Situation matrimoniale** : Célibataire 
 * **Nationalité** : Camerounaise 
 * **Téléphone** : 675 30 30 63 
-* Région : Ouest (Bamboutos)
+* **Région** : Ouest (Bamboutos)
 
 ## CURSUS ACADEMIQUE
 * **2019-2020** : LICENCE (Institut Supérieur La Rosière) 
