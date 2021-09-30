@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Je me nomme Fomekang Foukein Ornela, née le 25 Février a Batcham de nationnalité camerounaise et titulaire d’une Licence en soins infirmiers de la promotion 2020-2021 à l’Institut Supérieur la Rosière et actuellement dans le domaine du travail.
+Je me nomme FOMEKONG FOUKEIN Ornela, née le 25 Février a Batcham de nationnalité camerounaise et titulaire d’une Licence en soins infirmiers de la promotion 2020-2021 à l’Institut Supérieur la Rosière et actuellement dans le domaine du travail.
 
 ## ETAT CIVIL
 
