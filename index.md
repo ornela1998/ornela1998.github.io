@@ -12,12 +12,16 @@
   
   **Langues** : Français et anglais
   
-_________________________________________________________________
+
+
+
+
+
 
 ## FORMATION
 _________________________________________________________________
 
-J'ai une Licence en soins infirmiers obtenue à l’Institut Supérieur la Rosière.      **2020-2021**
+J'ai une Licence en soins infirmiers obtenue à l’Institut Supérieur la Rosière. **   **     **2020-2021**
 
 ## ETAT CIVIL
 
