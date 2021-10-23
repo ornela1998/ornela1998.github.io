@@ -27,12 +27,19 @@ Institut Supérieur la Rosière
 _________________________________________________________________
 
 **Baccalauréat en Science de Vie et de la Terre 2016-2017** 
-l(Lycée Bilingue de Mendong) 
+
+Lycée Bilingue de Mendong
+
 **Probatoire en Science de la Vie et de la Terre 2014-2015**
-Lycée Bilingue de Mendong 
+
+Lycée Bilingue de Mendong
+
 **BEPC 2012-2013**
-au collège MCD 
+
+au collège MCD
+
 **CEP 2008-2009** 
+
 GSB La Félicité 
 
 ## ETAT CIVIL
