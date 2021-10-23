@@ -1,8 +1,13 @@
 #                  FOMEKONG FOUKEIN ORNELA
-                      429, rue Damas
-                    Cameroun (Yaoundé)
-                 Téléphone : 675 30 30 63
-                Courriel : nicolelontsi634@gmail.com
+
+  429, rue Damas
+  
+  Cameroun (Yaoundé)
+  
+  Téléphone : 675 30 30 63
+  
+  Courriel : nicolelontsi634@gmail.com
+  
 _________________________________________________________________
 
 ## Introduction
