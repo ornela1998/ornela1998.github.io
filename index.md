@@ -45,7 +45,7 @@ GSB La Félicité
 ## EXPERIENCE PROFESSIONNELLE
 ___________________________________________________________________
 
-** Infirmière 2021**
+**Infirmière 2021**
 
 Centre de Santé Sainte Elisabeth
 
@@ -55,7 +55,7 @@ Centre de Santé Sainte Elisabeth
 ## EXPERIENCE DE TRAVAIL
 __________________________________________________________________
 
-** Infirmière 2021**
+**Infirmière 2021**
 
 Centre de Santé Sainte Elisabeth
 
