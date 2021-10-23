@@ -58,6 +58,13 @@ Centre de Santé Sainte Elisabeth
 ## COMPETENCES PROFESSIONNELLES
 _________________________________________________________________
 
+* Grandes capacités relationnelles, d’écoute, d’humanité,
+* Rigoureuse dans tous ses actes, de sérieux, de ponctualité,
+* maîtrise de soi dans toute situation,
+* connaissance de soi et de ses limites,
+* capacités d’adaptation et de travail en équipe,
+* responsable.
+
 ## IMPLICATION SOCIALE
 _________________________________________________________________
 
