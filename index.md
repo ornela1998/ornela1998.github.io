@@ -1,4 +1,4 @@
-#                  FOMEKONG FOUKEIN ORNELA
+# FOMEKONG FOUKEIN ORNELA
 
   429, rue Damas
   
@@ -8,11 +8,16 @@
   
   Courriel : nicolelontsi634@gmail.com
   
+  **Objectif professionnel** : Infirmière
+  
+  **Langues** : Français et anglais
+  
 _________________________________________________________________
 
-## Introduction
+## FORMATION
+_________________________________________________________________
 
-Je me nomme FOMEKONG FOUKEIN Ornela, née le 22 Février a Batcham de nationnalité camerounaise et titulaire d’une Licence en soins infirmiers de la promotion 2020-2021 à l’Institut Supérieur la Rosière et actuellement dans le domaine du travail.
+J'ai une Licence en soins infirmiers de la promotion 2020-2021 obtenue à l’Institut Supérieur la Rosière.
 
 ## ETAT CIVIL
 
