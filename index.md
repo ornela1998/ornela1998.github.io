@@ -42,25 +42,34 @@ au collège MCD
 
 GSB La Félicité 
 
-## ETAT CIVIL
+## EXPERIENCE PROFESSIONNELLE
+___________________________________________________________________
 
-* **Nom et prénom** : FOMEKONG FOUKEIN ORNELA 
-* **Date et lieu de naissance** : 22 Février 1998 à Batcham 
-* **Situation matrimoniale** : Célibataire 
-* **Nationalité** : Camerounaise 
-* **Téléphone** : 675 30 30 63 
-* **Région** : Ouest (Bamboutos)
+** Infirmière 2021**
 
-## Qualités
-* Travailleuse (capable de travailler sous-pression)
-* Dynamique, humble et endurante
-* Esprit d’équipe
-* Entreprenante
-* Disciplinée
+Centre de Santé Sainte Elisabeth
 
-## Formation
-* **Février à Mai 2021** : Formation sur le PEV au CS Marc Vivien Foe 
-*  **Du 13/9/20 au 13/02/21** : Stage pré-emploi en médecine au Centre de Santé Ste Elisabeth.
+* Prodiguer des soins de santé en évaluant le patient, en calculant la dose de médicament et administrer par voie orale, veineuse ou autres le traitement prescrit;
+* Idenditifier, prévenir et traiter les complications pendant le traitement;
+ 
+## EXPERIENCE DE TRAVAIL
+__________________________________________________________________
 
-## Expérienc Profesionnelle
-*  **2021**: Employée au Centre de Santé Sainte Elisabeth.
+** Infirmière 2021**
+
+Centre de Santé Sainte Elisabeth
+
+## COMPETENCES PROFESSIONNELLES
+_________________________________________________________________
+
+## IMPLICATION SOCIALE
+_________________________________________________________________
+
+## BENEVOLAT
+_________________________________________________________________
+
+## INTERETS ET LOISIRS
+_________________________________________________________________
+
+## REFERENCES
+_________________________________________________________________
