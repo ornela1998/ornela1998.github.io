@@ -17,7 +17,7 @@ _________________________________________________________________
 ## FORMATION
 _________________________________________________________________
 
-J'ai une Licence en soins infirmiers de la promotion 2020-2021 obtenue à l’Institut Supérieur la Rosière.
+J'ai une Licence en soins infirmiers obtenue à l’Institut Supérieur la Rosière.      **2020-2021**
 
 ## ETAT CIVIL
 
