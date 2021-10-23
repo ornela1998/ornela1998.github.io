@@ -12,12 +12,8 @@
   
   **Langues** : Français et anglais
 
-
-
-
-
 ## FORMATION
-_________________________________________________________________
+_____________________________________________
 
 **Licence en soins infirmiers     2020-2021**
 
@@ -65,11 +61,20 @@ _________________________________________________________________
 ## IMPLICATION SOCIALE
 _________________________________________________________________
 
+* membre de l'association des anciens étudiant de l'Institut Supérieur la Rosière
+* chrétienne engagée 
+
 ## BENEVOLAT
 _________________________________________________________________
 
+* Bénévole a l'institut de Santé Sainte Elisabeth en 2020
+
 ## INTERETS ET LOISIRS
 _________________________________________________________________
+
+* Lecture
+* Voyage
+* Sport
 
 ## REFERENCES
 _________________________________________________________________
