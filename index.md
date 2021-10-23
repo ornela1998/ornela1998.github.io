@@ -24,10 +24,16 @@ _________________________________________________________________
 Institut Supérieur la Rosière
 
 ## AUTRES FORMATION
-* **2019-2020** : LICENCE (Institut Supérieur La Rosière) 
-* **2016-2017** : Baccalauréat (Lycée Bilingue de Mendong) 
-* **2014-2015** : Probatoire (Lycée Bilingue de Mendong) 
-* **2012-2013** : BEPC ( au collège MCD) 2008-2009 : CEP (GSB La Félicité) 
+_________________________________________________________________
+
+**Baccalauréat en Science de Vie et de la Terre 2016-2017** 
+l(Lycée Bilingue de Mendong) 
+**Probatoire en Science de la Vie et de la Terre 2014-2015**
+Lycée Bilingue de Mendong 
+**BEPC 2012-2013**
+au collège MCD 
+**CEP 2008-2009** 
+GSB La Félicité 
 
 ## ETAT CIVIL
 
